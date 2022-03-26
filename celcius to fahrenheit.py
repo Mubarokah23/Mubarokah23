@@ -1,0 +1,6 @@
+T = input("Input your temperature: ")
+T = float(T)
+celcius = ("33.8 fahrenheit")
+print(f"1degree celcius = {celcius} ")
+CtoF = ((9*T//5+32))
+print(f"Conversion from celcius to fahrenheit is: {CtoF}")
