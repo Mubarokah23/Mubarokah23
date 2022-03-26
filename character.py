@@ -1,0 +1,8 @@
+surname = input("Enter your surname:")
+firstname = input("Enter your firstname:")
+lastname = input("Enter your lastname:")
+age = input("Enter your age:")
+print(len(surname))
+print(len(firstname))
+print(len(lastname))
+print(len(age))
